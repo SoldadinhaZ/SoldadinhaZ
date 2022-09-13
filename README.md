@@ -12,7 +12,6 @@
   <img align="center" alt="Nicole-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Nicole-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Nicole-jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-  <img align="right" alt="Nicole-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/906314512511160340/1019316753081303120/unknown.png">
 </div>
 
 ##
